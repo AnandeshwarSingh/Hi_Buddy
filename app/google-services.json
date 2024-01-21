@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "129817640225",
+    "firebase_url": "https://hi-buddy-5b46a-default-rtdb.firebaseio.com",
+    "project_id": "hi-buddy-5b46a",
+    "storage_bucket": "hi-buddy-5b46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129817640225:android:dfd5ae0782259a0ff39260",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVBJVtGXwVN1VwUx3qPAyz2EwIHHsYNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129817640225:android:3e9d5b13b765f674f39260",
+        "android_client_info": {
+          "package_name": "com.example.hibuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYVBJVtGXwVN1VwUx3qPAyz2EwIHHsYNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
